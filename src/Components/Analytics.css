@@ -1,0 +1,30 @@
+.w-chart-section {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .w-detail {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .w-title {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .w-stats {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  svg {
+    stroke: #555;
+    width: 32px;
+    height: 32px;
+  }
+  
